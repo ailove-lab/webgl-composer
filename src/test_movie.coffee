@@ -1,6 +1,7 @@
 module.exports =   
   name: "Just some test movie"
   scenes: [
+    id: 'scene_1'
     name: 'scene 1' 
     features: [
       type: "text"
@@ -10,6 +11,7 @@ module.exports =
       value: "image 1"
     ]
   ,
+    id: 'scene_2'
     name: 'scene 2' 
     features: [
       type: "text"
@@ -19,6 +21,7 @@ module.exports =
       value: "image 2"
     ]
   ,
+    id: 'scener_3'
     name: 'scene 3', 
     features: [
       type: "text"
@@ -27,4 +30,7 @@ module.exports =
       type: "image"
       value: "image 3"
     ]
+  ]
+  effects:[
+    name: 'glitch'
   ]

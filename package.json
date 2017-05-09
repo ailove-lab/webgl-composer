@@ -15,6 +15,7 @@
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
     "babel-preset-latest": "^6.0.0",
+    "bulma": "^0.4.1",
     "coffee-loader": "^0.7.3",
     "coffee-script": "^1.12.5",
     "cross-env": "^3.0.0",
@@ -23,8 +24,11 @@
     "jade": "^1.11.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
+    "vue-bulma-collapse": "^1.0.3",
+    "vue-focus": "^2.1.0",
     "vue-loader": "^11.1.4",
     "vue-template-compiler": "^2.2.1",
+    "vuedraggable": "^2.10.0",
     "webpack": "^2.2.0",
     "webpack-dev-server": "^2.2.0"
   }
